@@ -1,0 +1,8 @@
+{
+    "server": "",
+    "port": 6667,
+    "nickname": "COHERE",
+    "channel": "#COHERE",
+    "cohere_api_key": "",
+	"chat_history_storage_mode": "by_channel"
+}
